@@ -4,8 +4,9 @@
 ### to run a Hello World 
 
 **Install Cargo and Hellow hellow world**
-\n\n
-cargo init\n\n
 
-cargo run  
+
+**cargo init**
+
+**cargo run**  
 
